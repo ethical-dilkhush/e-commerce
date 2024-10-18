@@ -6,3 +6,13 @@
 [16-Oct-2024 12:46:39] NOTICE: ready to handle connections
 [17-Oct-2024 11:55:45] NOTICE: fpm is running, pid 1439
 [17-Oct-2024 11:55:45] NOTICE: ready to handle connections
+<<<<<<< HEAD
+=======
+[17-Oct-2024 18:22:33] NOTICE: fpm is running, pid 3250
+[17-Oct-2024 18:22:33] NOTICE: ready to handle connections
+[17-Oct-2024 18:22:34] NOTICE: Terminating ...
+[17-Oct-2024 18:22:34] NOTICE: Terminating ...
+[17-Oct-2024 18:22:35] NOTICE: exiting, bye-bye!
+[17-Oct-2024 18:22:37] NOTICE: fpm is running, pid 3310
+[17-Oct-2024 18:22:37] NOTICE: ready to handle connections
+>>>>>>> aa0783a3f69f64137413b860a30701cda9b93255
